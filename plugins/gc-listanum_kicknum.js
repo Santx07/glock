@@ -1,5 +1,5 @@
-/*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+/*              Codigo Creado Por KillzN
+      (https://github.com/Santx07/KillzN)
 */
 
 
