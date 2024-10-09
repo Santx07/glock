@@ -11,22 +11,22 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Santx07/KillzN`},
+    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+    'fileName': `「  𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Santx07/KillzN',
+        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
@@ -35,5 +35,5 @@ const handler = async (m, {conn, usedPrefix}) => {
     'headerType': 6};
   conn.sendMessage(m.chat, buttonMessage, {quoted: m});
 };
-handler.command = ['instalarbot', 'instalarbot'];
+handler.command = ['instaladwadwaarbot', 'instdwadawdawdawdaalarbot'];
 export default handler;

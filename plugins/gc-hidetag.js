@@ -36,11 +36,11 @@ const handler = async (m, {conn, text, participants, isOwner, isAdmin}) => {
       var mediax = await quoted.download?.();
       conn.sendMessage(m.chat, {sticker: mediax, mentions: users}, {quoted: m});
     } else {
-      await conn.relayMessage(m.chat, {extendedTextMessage: {text: `${masss}\n${htextos}\n`, ...{contextInfo: {mentionedJid: users, externalAdReply: {thumbnail: imagen1, sourceUrl: 'https://github.com/Santx07/KillzN'}}}}}, {});
+      await conn.relayMessage(m.chat, {extendedTextMessage: {text: `${masss}\n${htextos}\n`, ...{contextInfo: {mentionedJid: users, externalAdReply: {thumbnail: imagen1, sourceUrl: 'https://www.instagram.com/ineffable.mvrco/'}}}}}, {});
     }
   }
 };
-handler.command = /^(hidetag|notificar|notify)$/i;
+handler.command = /^(hidetag|notificar|notify|n|noti)$/i;
 handler.group = true;
 handler.admin = true;
 export default handler;

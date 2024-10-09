@@ -13,7 +13,7 @@ async function handler(m, {conn, usedPrefix}) {
    conn.fstop = true
    conn.ws.close()
 }
-handler.command = handler.help = ['stop', 'byebot'];
+handler.command = handler.help = ['stodawdawdp', 'awdawdawdasdwabyebot'];
 handler.tags = ['jadibot'];
 handler.owner = true
 export default handler; 

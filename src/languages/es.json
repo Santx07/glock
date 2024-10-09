@@ -1,7 +1,7 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Contribuidor": "https://www.instagram.com/ineffable.mvrco/",
+        "___Criador": "https://www.instagram.com/ineffable.mvrco/"
     },
     "plugins": {
         "_antiarab": {
@@ -277,157 +277,157 @@
         },
         "config_funciones": {
             "texto1": [
-                "< FUNCIONES DEL BOT />",
-                "▢ *Opción:* ✨",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva la bienvenida en el grupo."
+                "< Fᴜɴᴄɪᴏɴᴇs ᴅᴇʟ Bᴏᴛ />",
+                "▢ *Oᴘᴄɪᴏ́ɴ:* ✨",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ʟᴀ ʙɪᴇɴᴠᴇɴɪᴅᴀ ᴇɴ ᴇʟ ɢʀᴜᴘᴏ."
             ],
             "texto2": [
-                "▢ *Opción:* 🌎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot se vuelve de uso publico y/o privado.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🌎",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ ʙᴏᴛ sᴇ ᴠᴜᴇʟᴠᴇ ᴅᴇ ᴜsᴏ ᴘᴜʙʟɪᴄᴏ ʏ/ᴏ ᴘʀɪᴠᴀᴅᴏ.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto3": [
-                "▢ *Opción:* 🥵",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva los comandos +18 en el grupo."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🥵",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ʟᴏs ᴄᴏᴍᴀɴᴅᴏs +18 ᴇɴ ᴇʟ ɢʀᴜᴘᴏ."
             ],
             "texto4": [
-                "▢ *Opción:* 🔗",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el anti-enlaces de WhatsApp.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔗",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ᴇʟ ᴀɴᴛɪ-ᴇɴʟᴀᴄᴇs ᴅᴇ WʜᴀᴛsAᴘᴘ.",
+                "▢ *Nota:* Sᴇ ɴᴇᴄᴇsɪᴛᴀ ᴛᴇɴᴇʀ ᴀᴄᴛɪᴠᴀ ʟᴀ ғᴜɴᴄɪᴏ́ɴ ʀᴇsᴛʀɪᴄᴛ."
             ],
             "texto5": [
-                "▢ *Opción:* 🔗",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el anti-enlaces que inician en HTTPS.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔗",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ᴇʟ ᴀɴᴛɪ-ᴇɴʟᴀᴄᴇs ᴏ̨ᴜᴇ ɪɴɪᴄɪᴀɴ ᴇɴ HTTPS.",
+                "▢ *Nota:* Sᴇ ɴᴇᴄᴇsɪᴛᴀ ᴛᴇɴᴇʀ ᴀᴄᴛɪᴠᴀ ʟᴀ ғᴜɴᴄɪᴏ́ɴ ʀᴇsᴛʀɪᴄᴛ."
             ],
             "texto6": [
-                "▢ *Opción:* 🔎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desacriva las notificaciones de cambios en el grupo."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔎",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄʀɪᴠᴀ ʟᴀs ɴᴏᴛɪғɪᴄᴀᴄɪᴏɴᴇs ᴅᴇ ᴄᴀᴍʙɪᴏs ᴇɴ ᴇʟ ɢʀᴜᴘᴏ."
             ],
             "texto7": [
-                "▢ *Opción:* 🔎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Detecta modificaciones en el grupo y mantiene una mejor gestion."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔎",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Dᴇᴛᴇᴄᴛᴀ ᴍᴏᴅɪғɪᴄᴀᴄɪᴏɴᴇs ᴇɴ ᴇʟ ɢʀᴜᴘᴏ ʏ ᴍᴀɴᴛɪᴇɴᴇ ᴜɴᴀ ᴍᴇᴊᴏʀ ɢᴇsᴛɪᴏɴ."
             ],
             "texto8": [
-                "▢ *Opción:* ❗ |",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva las restricciones del Bot, como la de sacar o agregar personas a un grupo.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* ❗ |",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ʟᴀs ʀᴇsᴛʀɪᴄᴄɪᴏɴᴇs ᴅᴇʟ Bᴏᴛ, ᴄᴏᴍᴏ ʟᴀ ᴅᴇ sᴀᴄᴀʀ ᴏ ᴀɢʀᴇɢᴀʀ ᴘᴇʀsᴏɴᴀs ᴀ ᴜɴ ɢʀᴜᴘᴏ.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ.."
             ],
             "texto9": [
-                "▢ *Opción:* ☑️",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Marca como leido los mensajes y los estados automáticamente.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* ☑️",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Mᴀʀᴄᴀ ᴄᴏᴍᴏ ʟᴇɪᴅᴏ ʟᴏs ᴍᴇɴsᴀᴊᴇs ʏ ʟᴏs ᴇsᴛᴀᴅᴏs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀᴍᴇɴᴛᴇ..",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto10": [
-                "▢ *Opción:* 🔊",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva los comandos de audios sin prefijos, en el grupo."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔊",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ʟᴏs ᴄᴏᴍᴀɴᴅᴏs ᴅᴇ ᴀᴜᴅɪᴏs sɪɴ ᴘʀᴇғɪᴊᴏs, ᴇɴ ᴇʟ ɢʀᴜᴘᴏ."
             ],
             "texto11": [
-                "▢ *Opción:* 👾",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Todas las imagenes o videos enviados en el grupo se convierten en stickers. "
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 👾",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Tᴏᴅᴀs ʟᴀs ɪᴍᴀɢᴇɴᴇs ᴏ ᴠɪᴅᴇᴏs ᴇɴᴠɪᴀᴅᴏs ᴇɴ ᴇʟ ɢʀᴜᴘᴏ sᴇ ᴄᴏɴᴠɪᴇʀᴛᴇɴ ᴇɴ sᴛɪᴄᴋᴇʀs. "
             ],
             "texto12": [
-                "▢ *Opción:* 💬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot solo responderá a los comandos si es un chat privado.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 💬",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ Bᴏᴛ sᴏʟᴏ ʀᴇsᴘᴏɴᴅᴇʀᴀ ᴀ ʟᴏs ᴄᴏᴍᴀɴᴅᴏs sɪ ᴇs ᴜɴ ᴄʜᴀᴛ ᴘʀɪᴠᴀᴅᴏ.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto13": [
-                "▢ *Opción:* 🏢",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot solo respondera a los comandos si es un grupo. ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🏢",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ Bᴏᴛ sᴏʟᴏ ʀᴇsᴘᴏɴᴅᴇʀᴀ ᴀ ʟᴏs ᴄᴏᴍᴀɴᴅᴏs sɪ ᴇs ᴜɴ ɢʀᴜᴘᴏ. ",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto14": [
-                "▢ *Opción:* ❌",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Las imagenes enviadas para ver solo una vez, son reenviadas normal por el Bot. "
+                "▢ *Oᴘᴄɪᴏ́ɴ:* ❌",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Lᴀs ɪᴍᴀɢᴇɴᴇs ᴇɴᴠɪᴀᴅᴀs ᴘᴀʀᴀ ᴠᴇʀ sᴏʟᴏ ᴜɴᴀ ᴠᴇᴢ, sᴏɴ ʀᴇᴇɴᴠɪᴀᴅᴀs ɴᴏʀᴍᴀʟ ᴘᴏʀ ᴇʟ Bᴏᴛ. "
             ],
             "texto15": [
-                "▢ *Opción:* 📵",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot bloquerá a las personas que llamen al Bot. ",
-                "▢ *Nota:* Este comando solo podra ser usado por owners del Bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 📵",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ Bᴏᴛ ʙʟᴏᴏ̨ᴜᴇʀᴀ ᴀ ʟᴀs ᴘᴇʀsᴏɴᴀs ᴏ̨ᴜᴇ ʟʟᴀᴍᴇɴ ᴀʟ Bᴏᴛ. ",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴏᴅʀᴀ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴏᴡɴᴇʀs ᴅᴇʟ Bᴏᴛ."
             ],
             "texto16": [
-                "▢ *Opción:* 🤬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Detecta la malas palabras y advierte al participante del grupo, antes de ser eliminado.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🤬",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Dᴇᴛᴇᴄᴛᴀ ʟᴀ ᴍᴀʟᴀs ᴘᴀʟᴀʙʀᴀs ʏ ᴀᴅᴠɪᴇʀᴛᴇ ᴀʟ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛᴇ ᴅᴇʟ ɢʀᴜᴘᴏ, ᴀɴᴛᴇs ᴅᴇ sᴇʀ ᴇʟɪᴍɪɴᴀᴅᴏ.",
+                "▢ *Nota:* Sᴇ ɴᴇᴄᴇsɪᴛᴀ ᴛᴇɴᴇʀ ᴀᴄᴛɪᴠᴀ ʟᴀ ғᴜɴᴄɪᴏɴ ʀᴇsᴛʀɪᴄᴛ."
             ],
             "texto17": [
-                "▢ *Opción:* 🕸️",
-                "▢ *Comando:* ",
-                "▢ *Descripción:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🕸️",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:* ",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
+                "▢ *Nota:* Sᴇ ɴᴇᴄᴇsɪᴛᴀ ᴛᴇɴᴇʀ ᴀᴄᴛɪᴠᴀ ʟᴀ ғᴜɴᴄɪᴏɴ ʀᴇsᴛʀɪᴄᴛ."
             ],
             "texto18": [
-                "▢ *Opción:* 👎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Si un numero árabe se uné al grupo, el Bot lo elimina automaticamente.",
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 👎",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Sɪ ᴜɴ ɴᴜᴍᴇʀᴏ ᴀ́ʀᴀʙᴇ sᴇ ᴜɴᴇ́ ᴀʟ ɢʀᴜᴘᴏ, ᴇʟ Bᴏᴛ ʟᴏ ᴇʟɪᴍɪɴᴀ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀᴍᴇɴᴛᴇ.",
                 "▢ *Nota:* Se necesita tener activo el welcome y el restrict."
             ],
             "texto19": [
-                "▢ *Opción:* 👎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Si un numero árabe escribe en el grupo, el Bot lo elimina automaticamente.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 👎",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Sɪ ᴜɴ ɴᴜᴍᴇʀᴏ ᴀʀᴀʙᴇ ᴇsᴄʀɪʙᴇ ᴇɴ ᴇʟ ɢʀᴜᴘᴏ, ᴇʟ Bᴏᴛ ʟᴏ ᴇʟɪᴍɪɴᴀ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀᴍᴇɴᴛᴇ.",
+                "▢ *Nota:* Sᴇ ɴᴇᴄᴇsɪᴛᴀ ᴛᴇɴᴇʀ ᴀᴄᴛɪᴠᴀ ʟᴀ ғᴜɴᴄɪᴏɴ ʀᴇsᴛʀɪᴄᴛ."
             ],
             "texto20": [
-                "▢ *Opción:* 👑",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por los admins. del grupo."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 👑",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ ʙᴏᴛ sᴏʟᴏ ʀᴇsᴘᴏɴᴅᴇʀᴀ́ ᴀ ʟᴏs ᴍᴇɴsᴀᴊᴇs ᴇɴᴠɪᴀᴅᴏs ᴘᴏʀ ʟᴏs ᴀᴅᴍɪɴs. ᴅᴇʟ ɢʀᴜᴘᴏ."
             ],
             "texto21": [
-                "▢ *Opción:* 😃",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot empezará a responder a los mensajes usando la IA de SimSimi."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 😃",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ ʙᴏᴛ ᴇᴍᴘᴇᴢᴀʀᴀ́ ᴀ ʀᴇsᴘᴏɴᴅᴇʀ ᴀ ʟᴏs ᴍᴇɴsᴀᴊᴇs ᴜsᴀɴᴅᴏ ʟᴀ IA ᴅᴇ SɪᴍSɪᴍɪ."
             ],
             "texto22": [
-                "▢ *Opción:* 🛡️",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot detecta cuando un usuario elimina un mensaje y lo reenvía."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🛡️",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ ʙᴏᴛ ᴅᴇᴛᴇᴄᴛᴀ ᴄᴜᴀɴᴅᴏ ᴜɴ ᴜsᴜᴀʀɪᴏ ᴇʟɪᴍɪɴᴀ ᴜɴ ᴍᴇɴsᴀᴊᴇ ʏ ʟᴏ ʀᴇᴇɴᴠɪ́ᴀ."
             ],
             "texto23": [
-                "▢ *Opción:* 🔊",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🔊",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Sᴇ ᴅᴇsᴀᴄᴛɪᴠᴀɴ ʟᴏs ᴀᴜᴅɪᴏs ᴅᴇʟ Bᴏᴛ ᴅᴇʟ ᴍᴇɴᴜᴀᴜᴅɪᴏs ᴘᴀʀᴀ ᴛᴏᴅᴏs ʟᴏs ᴄʜᴀᴛs ᴘʀɪᴠᴀᴅᴏs.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto24": [
-                "▢ *Opción:* 🤖",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🤖",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Sᴇ ᴀᴄᴛɪᴠᴀ ᴇʟ ᴍᴏᴅᴏ 'Iɴᴛᴇʟɪɢᴇɴᴄɪᴀ Aʀᴛɪғɪᴄɪᴀʟ' ᴄᴏɴ CʜᴀᴛGPT ᴇɴ ᴛᴏᴅᴏs ʟᴏs ᴄʜᴀᴛs ᴘʀɪᴠᴀᴅᴏs.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto25": [
-                "▢ *Opción:* ⏳",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* ⏳",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ Bᴏᴛ ᴅᴇᴛᴇᴄᴛᴀ ᴄᴜᴀɴᴅᴏ ᴜɴ ᴜsᴜᴀʀɪᴏ ʜᴀᴄᴇ sᴘᴀᴍ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏ ʏ ʟᴏ ʙᴀɴᴇᴀ ᴘᴏʀ 5 sᴇɢᴜɴᴅᴏs ʏ ʟᴏ ᴀᴅᴠɪᴇʀᴛᴇ.",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto26": [
-                "▢ *Opción:* 🤖",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el uso del comando para sub bots ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 🤖",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Aᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ᴇʟ ᴜsᴏ ᴅᴇʟ ᴄᴏᴍᴀɴᴅᴏ ᴘᴀʀᴀ sᴜʙ ʙᴏᴛs ",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto27": [
-                "▢ *Opción:* 💬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot bloquerá a las personas que escriban al privado del Bot. ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Oᴘᴄɪᴏ́ɴ:* 💬",
+                "▢ *Cᴏᴍᴀɴᴅᴏ:*",
+                "▢ *Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ:* Eʟ Bᴏᴛ ʙʟᴏᴏ̨ᴜᴇʀᴀ́ ᴀ ʟᴀs ᴘᴇʀsᴏɴᴀs ᴏ̨ᴜᴇ ᴇsᴄʀɪʙᴀɴ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ Bᴏᴛ. ",
+                "▢ *Nota:* Esᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴏʀ ᴇʟ/ʟᴏs ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ(s) ᴅᴇʟ ʙᴏᴛ."
             ],
             "texto28": [
                 "< FUNCIONES DEL BOT />",
@@ -740,7 +740,7 @@
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝚁𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "downloader_tiktok_img": {
-            "texto1": "*[❗] Ingresa un enlace de tiktok imagenes, ejemplo: \"https://vm.tiktok.com/ZM2cqBRVS/\".*",
+            "texto1": "*[❗] Ingresa un enlace de tiktok imagenes, ejemplo: \"https://www.tiktok.com/@killznstore.com/\".*",
             "texto2": "*[❗] No se obtuvo respuesta de la página, intente más tarde.*",
             "texto3": "*[❗] No se encontraron imágenes en el enlace proporcionado.*",
             "texto4": "*[❗] No se obtuvo respuesta de la página, intente más tarde.*"
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utiliza este comando directamente en el número principal del Bot.*",
             "texto2": "*[❗] Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*",
-            "texto3": "*[❗] La carpeta MysticSession no existe o está vacía.*",
-            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta MysticSession.*",
+            "texto3": "*[❗] La carpeta KillzNSession no existe o está vacía.*",
+            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta KillzNSession.*",
             "texto5": [
                 "*[❗] Se eliminaron",
                 "archivos de sesión, excepto el archivo creds.json.*"
@@ -2223,7 +2223,7 @@
         },
         "gc_config": {
             "texto1": [
-                "*[❗] 𝙵𝙾𝚁𝙼𝙰𝚃𝙾 𝙴𝚁𝚁𝙾𝙽𝙴𝙾!!*",
+                "*[✅] 𝐆𝐑𝐔𝐏𝐎 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄!!*",
                 "*┏━━━❲ ✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ ❳━━━┓*",
                 "*[ ✔ ] 𝙶𝚁𝚄𝙿𝙾 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴*"
             ]
@@ -2426,8 +2426,8 @@
                 "Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
-            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por ineffable.mvrco, tu seras The Mystic - Bot.",
+            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por ineffable.mvrco, tu seras The Mystic - Bot.",
             "texto4": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_chatgptvoz": {
@@ -2436,7 +2436,7 @@
                 " Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por ineffable.mvrco, tu seras The Mystic - Bot.",
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_clima": {
@@ -2638,24 +2638,11 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/5219992095479*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 𝟷 𝙴𝚂 wa.me/34642467703*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 2 𝙴𝚂 wa.me/50499698072*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 3 𝙴𝚂 wa.me/595986460945*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 4 𝙴𝚂 wa.me/51940617554*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 5 𝙴𝚂 wa.me/51995386439*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 6 𝙴𝚂 wa.me/593991398786*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 7 𝙴𝚂 wa.me/51996089079*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 8 𝙴𝚂 wa.me/573225236629*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 9 𝙴𝚂 wa.me/593959425714*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 10 𝙴𝚂 wa.me/50246028932*",
-                "*—◉ 𝙴𝙻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 𝙳𝙴 𝙻𝙰 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙰 11 𝙴𝚂 https://instagram.com/gata_dios*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 wa.me/5212412377467*",
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 13 BR wa.me/5545998331383*"
+                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/56983073328*"
             ],
             "texto2": [
-                "「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」",
-                "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
+                "「  𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 」",
+                "Tʜᴇ Fᴏx Oғ Gʀᴇᴇᴅ⁩"
             ]
         },
         "info_donar": {
@@ -2664,15 +2651,12 @@
                 "𝙷𝙾𝙻𝙰",
                 "👉🏻 𝙰𝚀𝚄𝙸 𝙰𝙻𝙶𝚄𝙽𝙾𝚂 𝙳𝙰𝚃𝙾𝚂*",
                 "𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁 :𝟹*",
-                " ➤ 𝙲𝙻𝙰𝚅𝙴:*",
-                "646180192175788481*",
-                "➤ 𝙱𝙰𝙽𝙲𝙾: STP* ",
-                "➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: KillzN* ",
+                "➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Mvrco* ",
                 "➤ 𝙲𝙾𝙽𝙲𝙴𝙿𝚃𝙾: APOYO*",
-                "➤ 𝙿𝙰𝚈𝙿𝙰𝙻: https://www.paypal.me/BrunoSob*",
+                "➤ 𝙿𝙰𝚈𝙿𝙰𝙻: https://www.paypal.me/ineffablexmvrco*",
                 "👉🏻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*",
                 "𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*",
-                "wa.me/5219992095479*"
+                "wa.me/51977593385*"
             ]
         },
         "info_estado": {
@@ -2703,15 +2687,15 @@
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙽 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 :D*",
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 MI GRUPO DE VENTAS*",
                 "*➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*",
-                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
-                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
-                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
-                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
-                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
+                "*1.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*2.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*3.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*5.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
             ],
-            "texto2": "「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」",
+            "texto2": "「  ����� ��� 」",
             "texto3": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
         },
         "info_host": {
@@ -2737,7 +2721,7 @@
             "texto2": "El Mejor Hosting 🚀⁩"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Pagina Oficial: https://boxmineworld.com\n> Dashboard: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Soporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇\n> https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Santx07/KillzN.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Pagina Oficial: https://boxmineworld.com\n> Dashboard: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Soporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇\n> https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Prueba.git && cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> rm -rf KillzNSession\n> npm start",
             "texto2": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
         },
         "info_listprem": {
@@ -2772,12 +2756,12 @@
             "texto1": [
                 "_*< INFO - REPOSITORIO />*_",
                 "▢ *Nombre:*",
-                "TheMystic-Bot-MD",
+                "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ",
                 "▢ *Visitantes:*",
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
                 "▢ *URL:*",
-                "https://github.com/Santx07/KillzN",
+                "https://github.com/KillzN/Prueba",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2785,7 +2769,7 @@
             ]
         },
         "info_tyc": {
-            "texto1": "*=> El desconocimiento de lo que aqui se menciona no exime al propietario del Bot, Sub Bot o usuario del bot de la sanciones que se puedan derivar❗*\n\n*⚠️ Términos de privacidad*\n_1.- La información que reciba el Bot NO se comparte con ningún tercero ni con nadie_\n_2.- Las imágenes/videos/sticker/audios/etc no son compartidos con nadie_\n_3.- Su numero de teléfono no es compartido con absolutamente nadie_\n_4.- Datos de tarjetas, ubicaciones, direcciones, etc son eliminados inmediatamente y no se comparten con absolutamente nadie_\n_5.- Todas las conversaciones son eliminadas cada determinado tiempo y no se hace backup (no se guarda) de ningún tipo de información/conversación_\n\n*⚠️ Términos de uso*\n_1.- No nos hacemos responsables de un mal uso que se le pueda dar al Bot_\n_2.- No nos hacemos responsables de la ignorancia y/o desconocimiento del tema_\n_3.- El Bot no esta activo las 24 horas al menos de que el propietario decida lo contrario_\n_4.- La 'empresa' no se hace responsable del uso de un Sub Bot o Bot no oficial, ya que son personas (terceros) y no tenemos control sobre ell@s_\n_5.- No nos hacemos responsables de los números que se puedan ir a soporte por el uso del Bot, es aconsejable siempre usar números virtuales para usos de Bots_\n_6.- Los audios/notas de voz/imágenes/videos o cualquier otro archivo multimedia que sean de propiedad de The Mystic - Bot son únicamente y exclusivamente de este Bot, si se detecta a otro Bot con alguno o algunos de los archivos multimedia antes mencionado se tomarán cartas en el asunto._\n\n*➤ Mensaje del numero del Bot?*\n_- Si en algún momento recibe un mensaje del numero del Bot y no es un comando posiblemente sea de el propietario del Bot o el propietario del numero, este es un persona real por lo que se le pide que no le falte el respeto_\n\n*➤ Base usada para este Bot:*\n*- https://github.com/BochilGaming/games-wabot-md*\n\n*➤ Agradecimientos a:*\n*- Unx21*\n*- Narutomo*\n*- BochilGaming*\n*- Unxteam*\n*- Bochilteam*\n*- ConfuMods*\n*- Theh2so4*\n*- Hiro*\n*- The.sad.boy01*\n*- botstylee*\n*- Amel*\n*- FatihArridho*\n*- Adiwajshing*\n*- Darlyn*\n*- Etc.*\n\n*⁉️ Te quedaron dudas?*\n_- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ \n\n> wa.me/5219992095479\n> KillzN \n> Correo electronico: theshadowbrokers133@gmailcom\n\n*∆ THE MYSTIC - BOT - MD ∆*"
+            "texto1": "*=> El desconocimiento de lo que aqui se menciona no exime al propietario del Bot, Sub Bot o usuario del bot de la sanciones que se puedan derivar❗*\n\n*⚠️ Términos de privacidad*\n_1.- La información que reciba el Bot NO se comparte con ningún tercero ni con nadie_\n_2.- Las imágenes/videos/sticker/audios/etc no son compartidos con nadie_\n_3.- Su numero de teléfono no es compartido con absolutamente nadie_\n_4.- Datos de tarjetas, ubicaciones, direcciones, etc son eliminados inmediatamente y no se comparten con absolutamente nadie_\n_5.- Todas las conversaciones son eliminadas cada determinado tiempo y no se hace backup (no se guarda) de ningún tipo de información/conversación_\n\n*⚠️ Términos de uso*\n_1.- No nos hacemos responsables de un mal uso que se le pueda dar al Bot_\n_2.- No nos hacemos responsables de la ignorancia y/o desconocimiento del tema_\n_3.- El Bot no esta activo las 24 horas al menos de que el propietario decida lo contrario_\n_4.- La 'empresa' no se hace responsable del uso de un Sub Bot o Bot no oficial, ya que son personas (terceros) y no tenemos control sobre ell@s_\n_5.- No nos hacemos responsables de los números que se puedan ir a soporte por el uso del Bot, es aconsejable siempre usar números virtuales para usos de Bots_\n_6.- Los audios/notas de voz/imágenes/videos o cualquier otro archivo multimedia que sean de propiedad de The Mystic - Bot son únicamente y exclusivamente de este Bot, si se detecta a otro Bot con alguno o algunos de los archivos multimedia antes mencionado se tomarán cartas en el asunto._\n\n*➤ Mensaje del numero del Bot?*\n_- Si en algún momento recibe un mensaje del numero del Bot y no es un comando posiblemente sea de el propietario del Bot o el propietario del numero, este es un persona real por lo que se le pide que no le falte el respeto_\n\n*➤ Base usada para este Bot:*\n*- https://github.com/BochilGaming/games-wabot-md*\n\n*➤ Agradecimientos a:*\n*- Unx21*\n*- Narutomo*\n*- BochilGaming*\n*- Unxteam*\n*- Bochilteam*\n*- ConfuMods*\n*- Theh2so4*\n*- Hiro*\n*- The.sad.boy01*\n*- botstylee*\n*- Amel*\n*- FatihArridho*\n*- Adiwajshing*\n*- Darlyn*\n*- Etc.*\n\n*⁉️ Te quedaron dudas?*\n_- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ \n\n> wa.me/56983073328\n> KillzN \n> Correo electronico: theshadowbrokers133@gmailcom\n\n*∆ THE MYSTIC - BOT - MD ∆*"
         },
         "juegos_matematicas_respuestas": {
             "texto1": "_*< JUEGOS - MATEMÁTICAS />*_\n\n*[ ℹ️ ] El ejercicio matemático ya fue resuelto anteriormente.*",
@@ -2903,14 +2887,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏",
+                "���� - ���",
                 "▢ *Hola,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
                 "▢ *Diamantes:* ",
-                "▢ *MysticCoins:* ",
+                "▢ *KillzNCoins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< LISTA DE MENUS />*_",
@@ -3216,7 +3200,7 @@
             "texto3": "*Lista de grupos del Bot* 🤖\n\n*—◉ Total de grupos:*"
         },
         "owner_join": {
-            "texto1": "*[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
+            "texto1": "*[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
             "texto2": "*[ ✔️ ] El Bot ha ingresado con éxito al grupo.*",
             "texto3": "*[❗] El link de su grupo fue enviado a mi propietario/a.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
             "texto4": "*[❗] NUEVA SOLICITUD DE UN BOT PARA UN GRUPO [❗]*\n\n*—◉ Solicitante:*",
@@ -3388,7 +3372,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "KillzNCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3511,7 +3495,7 @@
                 "*—◉ Continúa explorando y realizando misiones para alcanzar nuevas alturas en el Gremio de Aventureros. Sigue interactuando con el Bot!.*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_KillzNCoins": {
             "texto1": [
                 "Que pro 😎 has minado",
                 "🌟✨ Genial!! Obtienes",
@@ -3845,12 +3829,12 @@
             "texto11": [
                 "*[ ⚠ ] Advertencia*",
                 "*[ ⚠ ] Advertencia*",
-                "https://github.com/Santx07/KillzN"
+                "https://www.instagram.com/ineffable.mvrco/"
             ]
         },
         "participantsUpdate": {
-            "texto1": "👋 ¡Bienvenido/a!\n@user",
-            "texto2": "👋 ¡Hasta luego!\n@user",
+            "texto1": "╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════════════",
+            "texto2": "╔══════════════*\n*╟❧ @user*\n*╟❧ 𝗦𝗘 𝗦𝗔𝗟𝗜𝗢 𝗗𝗘𝗟 𝗚𝗥𝗨𝗣𝗢👋🏻*\n*╟❧ YA ERA HORA ESTABAMOS ESPERANDO QUE TE VAYAS*\n*╟❧¡𝐀𝐝𝐢𝐨́𝐬!*\n*╚══════════════*",
             "texto3": "*[ ℹ️ ] @user Fue promovido a administrador.*",
             "texto4": "*[ ℹ️ ] @user Fue degradado de administrador.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada.*",

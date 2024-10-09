@@ -1,4 +1,4 @@
-// TheMystic-Bot-MD@BrunoSobrino - _antiarab.js
+// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - _antiarab.js
 
 
 const handler = (m) => m;

@@ -1,4 +1,4 @@
-/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://github.com/BrunoSobrino */
+/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://www.instagram.com/ineffable.mvrco/ */
 
 
 const handler = async (m, {conn, usedPrefix, command}) => {

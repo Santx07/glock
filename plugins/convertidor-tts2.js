@@ -2,8 +2,8 @@
 
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
-           Codigo hecho por @BrunoSobrino
-       Github: https://github.com/BrunoSobrino
+           Codigo hecho por @ineffable.mvrco
+       Github: https://www.instagram.com/ineffable.mvrco/
        
        Nota: Solo hay disponibles efectos en
        ingles, por lo que el texto en otros

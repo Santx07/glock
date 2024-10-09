@@ -36,22 +36,22 @@ ${tradutor.texto1[15]}
 ${tradutor.texto1[16]}
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Santx07/KillzN`},
+    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+    'fileName': `「  𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Santx07/KillzN',
+        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco/',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q'}},
+        'sourceUrl': 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

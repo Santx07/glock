@@ -11,7 +11,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
   const tradutor = _translate.plugins.buscador_githubsearch
 
-  if (!text) throw `*[❗] Ingresa un texto para buscar, ejemplo: ${usedPrefix + command} TheMystic-Bot-MD*`;
+  if (!text) throw `*[❗] Ingresa un texto para buscar, ejemplo: ${usedPrefix + command} 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 *`;
   const res = await fetch(global.API('https://api.github.com', '/search/repositories', {
     q: text,
   }));
@@ -33,7 +33,7 @@ ${repo.description ? `📝 ${tradutor.texto1[4]}\n${repo.description}` : ''}
 };
 handler.help = ['githubs'];
 handler.tags = ['buscadores'];
-handler.command = /^(ghs|githubs|githubs|githubsearch|gits|gitsearch)$/i;
+handler.command = /^(ghawdadwwadawawds|gitawawdawddawdawdhubs|giawdwadwadawdasdwthubs|githdwadawawdadubsearch|awdadwagwdaits|gitsdawdawdawdawdaearch)$/i;
 export default handler;
 
 function formatDate(n, locale = 'es') {
