@@ -2557,9 +2557,9 @@
             "texto2": "[❗] SELECTED MESSAGE IS NOT A VIEW ONCE (VIEW ALONE)"
         },
         "herramientas_spamwa": {
-            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 5219999999999|reply :v|25*",
-            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 5219999999999|reply :v|25*",
-            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 5219999999999|reply :v|25*",
+            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 519999999999|reply :v|25*",
+            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 519999999999|reply :v|25*",
+            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 519999999999|reply :v|25*",
             "texto4": "[ ⚠️ ] MESSAGES SHOULD BE LESS THAN 50 MESSAGES️",
             "texto5": [
                 "[❗] MESSAGE SPAM IS ABOVE LIMIT\nPLEASE CONSULT THE ADMIN\nEMERGENCY CONTACT:\n*—◉",

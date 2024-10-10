@@ -2562,9 +2562,9 @@
             "texto2": "*[❗] A MENSAGEM SELECIONADA NÃO É UMA VISUALIZAÇÃO ÚNICA (VER SOZINHO)*"
         },
         "herramientas_spamwa": {
-            "texto1": "*[ ⚠️ ] PARA FAVOR, NÃO FAÇA USO EXCESSIVO DE SPAM DE MENSAGENS!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
-            "texto2": "*[ ⚠️ ] PARA FAVOR, EVITE FAZER SPAM MENSAGENS PARA HACKEAR EL SPAM!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
-            "texto3": "*[ ⚠️ ] A QUANTIDADE DEVE SER MENOR!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
+            "texto1": "*[ ⚠️ ] PARA FAVOR, NÃO FAÇA USO EXCESSIVO DE SPAM DE MENSAGENS!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 519999999999|responde :v|25*",
+            "texto2": "*[ ⚠️ ] PARA FAVOR, EVITE FAZER SPAM MENSAGENS PARA HACKEAR EL SPAM!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 519999999999|responde :v|25*",
+            "texto3": "*[ ⚠️ ] A QUANTIDADE DEVE SER MENOR!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 519999999999|responde :v|25*",
             "texto4": "*[ ⚠️ ] AS MENSAGENS MENSAJES DEVEM SER MENOS DE 50 MENSAGENS*️",
             "texto5": [
                 "*[❗] O SPAM DE MENSAGENS ESTÁ ACIMA DO LIMITE*\n*FAVOR CONSULTAR O ADMIN*\n*CONTATO EMERGENCIAL:*\n*—◉",
