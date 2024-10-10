@@ -1506,7 +1506,7 @@ Tu ganaste:
         // Notificação automatica para cada usuario Jogador do Game GLX
         if (!data1.notificacao.recebidas.includes(api.notificacao.id)) {
             let number = data1.perfil.id.replace(/\D/g, '')
-            let str = `*🔔 - Notificación del juego*\n\n*[BOT]* _The Mystic Bot MD_ \n*_Para:_ @${number}*\n\n`
+            let str = `*🔔 - Notificación del juego*\n\n*[BOT]* _KILL BOT_ \n*_Para:_ @${number}*\n\n`
 
             let msg = api.notificacao.msg // Mensagem de notificação na API 
 
@@ -1590,5 +1590,5 @@ Tu ganaste:
         }
     }
 };
-handler.command = /^(gameglx|glx)$/i;
+handler.command = /^(gameADWAWDglx|glAWDAWDAWx)$/i;
 export default handler;

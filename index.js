@@ -34,11 +34,11 @@ function verificarCredsJson() {
 
 function formatearNumeroTelefono(numero) {
   let formattedNumber = numero.replace(/[^\d+]/g, '');
-  if (formattedNumber.startsWith('+52') && !formattedNumber.startsWith('+521')) {
-    formattedNumber = formattedNumber.replace('+52', '+521');
-  } else if (formattedNumber.startsWith('52') && !formattedNumber.startsWith('521')) {
-    formattedNumber = `+521${formattedNumber.slice(2)}`;
-  } else if (formattedNumber.startsWith('52') && formattedNumber.length >= 12) {
+  if (formattedNumber.startsWith('+56') && !formattedNumber.startsWith('+56')) {
+    formattedNumber = formattedNumber.replace('+56', '+56');
+  } else if (formattedNumber.startsWith('56') && !formattedNumber.startsWith('56')) {
+    formattedNumber = `+56${formattedNumber.slice(2)}`;
+  } else if (formattedNumber.startsWith('56') && formattedNumber.length >= 12) {
     formattedNumber = `+${formattedNumber}`;
   } else if (!formattedNumber.startsWith('+')) {
     formattedNumber = `+${formattedNumber}`;
@@ -55,16 +55,16 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('The Mystic\nBot', {
+  say('𝗞𝗜𝗟𝗟\n𝗕𝗢𝗧', {
     font: 'chrome',
     align: 'center',
-    gradient: ['red', 'magenta'],
+    gradient: ['black', 'red'],
   });
 
-  say(`Bot creado por KillzN`, {
+  say(`Bot creado por Mvrco`, {
     font: 'console',
     align: 'center',
-    gradient: ['red', 'magenta'],
+    gradient: ['back', 'red'],
   });
 
   verificarOCrearCarpetaAuth();

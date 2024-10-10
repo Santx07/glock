@@ -64,7 +64,7 @@ ${tradutor.texto1[1]}
 
         }
 
-        // - DEFINIDO TRADUÇÕES PARA GRUPOS NO BOT THE MYSTIC 
+        // - DEFINIDO TRADUÇÕES PARA GRUPOS NO BOT KILL BOT
 
         if (command === 'langgroup') {
 
