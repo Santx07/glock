@@ -31,7 +31,7 @@ conn.sendHydrated(m.chat, mat, author, null, null, null, null, null, [
   if (id in global.math) return conn.reply(m.chat, tradutor.texto3, global.math[id][0]);
   const math = genMath(mode);
   global.math[id] = [
-    await conn.reply(m.chat, `${tradutor.texto4[0]} ${math.str}\n\n${tradutor.texto4[1]} ${(math.time / 1000).toFixed(2)}s\n\n${tradutor.texto4[2]} ${math.bonus} XP\n\njrU022n8Vf`, m),
+    await conn.reply(m.chat, `${tradutor.texto4[0]} ${math.str}\n\n${tradutor.texto4[1]} ${(math.time / 1000).toFixed(2)}s\n\n${tradutor.texto4[2]} ${math.bonus} XP\n\n@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔`, m),
     math, 4,
     setTimeout(() => {
       if (global.math[id]) {

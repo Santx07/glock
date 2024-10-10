@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/KillzN/Prueba",
+  "homepage": "https://github.com/KillzN/Perfect3",
   "author": {
     "name": "KILLZN"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KillzN/Prueba.git"
+    "url": "git+https://github.com/KillzN/Perfect3.git"
   },
   "bugs": {
-    "url": "https://github.com/KillzN/Prueba/issues"
+    "url": "https://github.com/KillzN/Perfect3/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

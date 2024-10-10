@@ -1590,5 +1590,5 @@ Tu ganaste:
         }
     }
 };
-handler.command = /^(gameADWAWDglx|glAWDAWDAWx)$/i;
+handler.command = /^(gameADWAWDglx|glAWDAWDAW   x)$/i;
 export default handler;

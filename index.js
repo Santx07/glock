@@ -58,13 +58,13 @@ async function start(file) {
   say('𝗞𝗜𝗟𝗟\n𝗕𝗢𝗧', {
     font: 'chrome',
     align: 'center',
-    gradient: ['black', 'red'],
+    gradient: ['red', 'magenta'],
   });
 
   say(`Bot creado por Mvrco`, {
     font: 'console',
     align: 'center',
-    gradient: ['back', 'red'],
+    gradient: ['red', 'magenta'],
   });
 
   verificarOCrearCarpetaAuth();
