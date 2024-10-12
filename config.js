@@ -5,7 +5,7 @@ import fs from 'fs';
 import moment from 'moment-timezone';
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `𝐊𝐈𝐋𝐋𝐙𝐍Session`;
+global.authFile = `KillzNSession`;
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 // Error de m.isBaileys marcado como false fix temporal
