@@ -28,7 +28,7 @@ let query = m.text;
 let username = `${m.pushName}`;
 
 let jailbreak = await fetch('https://raw.githubusercontent.com/Skidy89/chat-gpt-jailbreak/main/Text.txt').then(v => v.text());
-var syms = `Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrina tu seras The-MysticBot-MD.\n${jailbreak}`
+var syms = `Actuaras como un Bot de WhatsApp el cual fue creado por Mvrco tu seras KILL - BOT.\n${jailbreak}`
 
 let result = await luminsesi(query, username, syms);
 await m.reply(result)
