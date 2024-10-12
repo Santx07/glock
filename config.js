@@ -5,7 +5,7 @@ import fs from 'fs';
 import moment from 'moment-timezone';
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `KillzNSession`;
+global.authFile = `𝐊𝐈𝐋𝐋𝐙𝐍Session`;
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 // Error de m.isBaileys marcado como false fix temporal
@@ -14,19 +14,19 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', false],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', false],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
+  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
   ['56983073328'],
   ['56983073328'],
   ['56983073328'],
