@@ -31,7 +31,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} KillzN
+  ${tradutor.texto1[1]} 𝐊𝐈𝐋𝐋𝐙𝐍
   ${tradutor.texto1[2]} +56983073328
   ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://www.instagram.com/ineffable.mvrco/",
         mediaType: 2,
         previewType: "pdf",
-        title: "KillzN",
+        title: "𝐊𝐈𝐋𝐋𝐙𝐍",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
