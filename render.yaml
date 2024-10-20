@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 
+    name: 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 
     env: docker
     region: Frankfurt
     plan: free

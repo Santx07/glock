@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - descargas-spotify.js
+// 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 @snowserpent._ - descargas-spotify.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 import fetch from 'node-fetch';
 import fs from 'fs';
@@ -68,7 +68,7 @@ const handler = async (m, { conn, text }) => {
     const img = await (await fetch(`${spty.data.cover_url}`)).buffer()  
     const letra_s = await find_lyrics(spty.data.name ? spty.data.name : '');
     let letra;
-    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖' : '🤴🏻 Descarga por ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖'}`  
+    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por snowserpent._ & 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩  🤖' : '🤴🏻 Descarga por snowserpent._ & 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩  🤖'}`  
     const tags = {
       title: spty.data.name || '-',
       artist: artist,

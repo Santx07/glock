@@ -1,5 +1,5 @@
-/*              Codigo Creado Por KillzN
-      (https://github.com/KillzN/Perfect3)
+/*              Codigo Creado Por Santx07
+      (https://github.com/Santx07/glock)
 */
 
 

@@ -1,5 +1,5 @@
-// Codigo hecho para 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 - MD por https://www.instagram.com/ineffable.mvrco/
-// By @ineffable.mvrco
+// Codigo hecho para 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 - MD por https://www.instagram.com/snowserpent._/
+// By @snowserpent._
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
 

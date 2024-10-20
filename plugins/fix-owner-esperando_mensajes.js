@@ -1,4 +1,4 @@
-/* Codigo hecho por @ineffable.mvrco y mejorado por ineffable.mvrco */
+/* Codigo hecho por @snowserpent._ y mejorado por snowserpent._ */
 
 import { readdirSync, unlinkSync, existsSync, promises as fs, rmSync, readFileSync } from 'fs';
 import path from 'path';
@@ -13,7 +13,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     return conn.sendMessage(m.chat, {text: tradutor.texto1}, {quoted: m});
   }
   await conn.sendMessage(m.chat, {text: tradutor.texto2}, {quoted: m});
-  const sessionPath = './𝐊𝐈𝐋𝐋𝐙𝐍Session/';
+  const sessionPath = './Serpent BanSession/';
   try {
     if (!existsSync(sessionPath)) {
       return await conn.sendMessage(m.chat, {text: tradutor.texto3}, {quoted: m});

@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - _antiarab.js
+// 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 @snowserpent._ - _antiarab.js
 
 
 const handler = (m) => m;

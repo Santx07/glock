@@ -44,7 +44,7 @@ ${tradutor.texto2[7]}`;
     'participant': '0@s.whatsapp.net',
   };
 
-  await conn.sendFile(m.chat, img, 'killzn.jpg', texto, fkontak);
+  await conn.sendFile(m.chat, img, 'Santx07.jpg', texto, fkontak);
   // await conn.sendButton(m.chat, texto, wm, img, [['🔰 𝙼𝙴𝙽𝚄', '/menu'] ], fkontak, m)
   global.db.data.users[m.sender].lastcofre = new Date * 1;
 };

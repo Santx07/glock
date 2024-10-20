@@ -5,7 +5,7 @@ import fs from 'fs';
 import moment from 'moment-timezone';
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `𝐊𝐈𝐋𝐋𝐙𝐍Session`;
+global.authFile = `Serpent BanSession`;
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 // Error de m.isBaileys marcado como false fix temporal
@@ -14,43 +14,43 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', false],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', false],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true], 
+  ['573246448227', '👑 Serpent Ban 👑', true],
+  ['573246448227', '👑 Serpent Ban 👑', true], 
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'], 
+  ['573246448227'],  
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'], 
+  ['573246448227'], 
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'], 
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227'],
+  ['573246448227']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['573246448227'];
+global.prems = ['573246448227'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
@@ -86,16 +86,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧`;
-global.gt = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
-global.mysticbot = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
-global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.md = 'https://github.com/KillzN/Perfect3';
-global.mysticbot = 'https://github.com/KillzN/Perfect3';
+global.wm2 = `${dia} ${fecha}\n𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩`;
+global.gt = '𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩';
+global.mysticbot = '𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩';
+global.channel = 'https://chat.whatsapp.com/JwpstTAHv0xGmlOegXlvms';
+global.md = 'https://github.com/Santx07/glock';
+global.mysticbot = 'https://github.com/Santx07/glock';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '573246448227';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

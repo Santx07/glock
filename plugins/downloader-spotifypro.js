@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - descargas-spotifypro.js
+// 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 @snowserpent._ - descargas-spotifypro.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 // Este plugins descarga por texto, album, track o playlist de spotify.
 import pkg from 'sanzy-spotifydl'; 

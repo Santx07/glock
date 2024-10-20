@@ -1,7 +1,7 @@
 {
     "__creditos": {
-        "__Contribuidor": "https://www.instagram.com/ineffable.mvrco/",
-        "__Criador": "https://www.instagram.com/ineffable.mvrco/"
+        "__Contribuidor": "https://www.instagram.com/snowserpent._/",
+        "__Criador": "https://www.instagram.com/snowserpent._/"
     },
     "plugins": {
         "antiarab": {
@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖"
+            "texto2": "🤴🏻 Téléchargé par snowserpent._ & 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -852,8 +852,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Utilisez cette commande directement sur le numéro principal du Bot.",
             "texto2": "[❗] Démarrage du processus de suppression de tous les fichiers de session, sauf le fichier creds.json...",
-            "texto3": "[❗] Le dossier KillzNSession n'existe pas ou est vide.",
-            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier KillzNSession.",
+            "texto3": "[❗] Le dossier Santx07Session n'existe pas ou est vide.",
+            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier Santx07Session.",
             "texto5": [
                 "[❗] Ont été supprimés",
                 "fichiers de session, sauf le fichier creds.json."
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par snowserpent._, vous serez 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par snowserpent._, vous serez 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par snowserpent._, vous serez 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2313,12 +2313,12 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/56983073328*",
+                "*—◉ Le numéro de mon créateur est wa.me/573246448227*",
                 "*—◉ Le numéro du collaborateur 1 est wa.me/34642467703*",
                 "*—◉ Le numéro du collaborateur 2 est wa.me/50499698072*",
                 "*—◉ Le numéro du collaborateur 3 est wa.me/595986460945*",
                 "*—◉ Le numéro du collaborateur 4 est wa.me/51940617554*",
-                "*—◉ Le numéro du collaborateur 5 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 5 est wa.me/573246448227*",
                 "*—◉ Le numéro du collaborateur 6 est wa.me/593991398786*",
                 "*—◉ Le numéro du collaborateur 7 est wa.me/51996089079*",
                 "*—◉ Le numéro du collaborateur 8 est wa.me/573225236629*",
@@ -2342,19 +2342,19 @@
                 " ➤ CLÉ :",
                 "646180192175788481",
                 "➤ BANQUE : STP",
-                "➤ BÉNÉFICIAIRE : KillzN",
+                "➤ BÉNÉFICIAIRE : Santx07",
                 "➤ CONCEPT : SOUTIEN",
                 "➤ PAYPAL : https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/56983073328"
+                "wa.me/573246448227"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
-                "▢ *Prop. :* KillzN",
-                "▢ *WA :* +56983073328",
+                "▢ *Prop. :* Santx07",
+                "▢ *WA :* +573246448227",
                 "▢ *PayPal :* paypal.me/ineffablexmvrco",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
@@ -2412,7 +2412,7 @@
             "texto2": "Le meilleur hébergement 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> rm -rf KillzNSession\n> npm start",
+            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Santx07/glock.git && cd 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 \n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 \n> rm -rf Santx07Session\n> npm start",
             "texto2": "Le meilleur Bot de WhatsApp"
         },
         "info_listprem": {
@@ -2447,12 +2447,12 @@
             "texto1": [
                 "_*< INFORMATIONS - DÉPÔT />*_",
                 "▢ *Nom :*",
-                "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ",
+                "𝙂𝙇𝙊𝘾𝙆 𝙗𝙤𝙩 ",
                 "▢ *Visiteurs :*",
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",
                 "▢ *URL :*",
-                "https://github.com/KillzN/Perfect3",
+                "https://github.com/Santx07/glock",
                 "Forks ·",
                 "Étoiles ·",
                 "Problèmes\n\n",
@@ -2883,7 +2883,7 @@
             "texto3": "Liste des groupes du Bot 🤖\n\n—◉ Total des groupes :"
         },
         "owner_join": {
-            "texto1": "[❗] Lien incorrect ou manquant, veuillez insérer le lien d'un groupe WhatsApp.\n\n*—◉ Exemple:\n◉ #join https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC*",
+            "texto1": "[❗] Lien incorrect ou manquant, veuillez insérer le lien d'un groupe WhatsApp.\n\n*—◉ Exemple:\n◉ #join https://chat.whatsapp.com/JwpstTAHv0xGmlOegXlvms*",
             "texto2": "[ ✔️ ] Le Bot a rejoint le groupe avec succès.",
             "texto3": "[❗] Le lien de votre groupe a été envoyé à mon propriétaire.\n\n*—◉ Votre groupe est en cours d'évaluation et le propriétaire du Bot décidera s'il ajoute ou non le Bot.\n\n—◉ Certaines raisons pour lesquelles votre demande pourrait être refusée sont :\n1.- Le Bot est saturé.\n2.- Le Bot a été récemment retiré du groupe.\n3.- Le lien du groupe a été réinitialisé.\n4.- Le Bot n'est pas ajouté aux groupes par décision du propriétaire.\n\n—◉ Le processus d'évaluation peut prendre un certain temps, même des jours, veuillez patienter.",
             "texto4": "[❗] NOUVELLE DEMANDE D'UN BOT POUR UN GROUPE [❗]\n\n—◉ Demandeur :",
@@ -3055,7 +3055,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamants* 💎",
                 "Jetons* 🪙",
-                "KillzNCoins* 👾",
+                "Santx07Coins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3178,7 +3178,7 @@
                 "*—◉ Continuez à explorer et à accomplir des missions pour atteindre de nouveaux sommets dans la Guilde des Aventuriers. Continuez à interagir avec le Bot !*"
             ]
         },
-        "rpg_minar_KillzNCoins": {
+        "rpg_minar_Santx07Coins": {
             "texto1": [
                 "Quel pro 😎 vous avez miné",
                 "🌟✨ Génial !! Vous recevez",
@@ -3517,7 +3517,7 @@
             "texto11": [
                 "[ ⚠️ ] Avertissement",
                 "[ ⚠️ ] Avertissement",
-                "https://github.com/KillzN/Perfect3"
+                "https://github.com/Santx07/glock"
             ]
         },
         "participantsUpdate": {
